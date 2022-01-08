@@ -11,9 +11,9 @@ public class IMEI {
             Object DL = in.readObject();
             HashMap hashWithOutFormat = (HashMap) DL;
 
-           // CompatibleInfo.cfg 0
-        //    String imei = "1234567890ABCDEF"; 
-           String imei = "864824057453266"; 
+           // the size of CompatibleInfo.cfg is o bytes
+           String imei = "1234567890ABCDEF"; 
+        //    String imei = "864824057453266"; 
         //    String imei = "864824057453258"; 
 
 
